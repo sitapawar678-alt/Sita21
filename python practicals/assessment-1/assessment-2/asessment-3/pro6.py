@@ -1,3 +1,4 @@
 a = int(input("enter first numbar:"))
 b = int(input("enter second numbar:"))
-prin("remainder:,a%b")
+
+print(a>0 and b>0)
